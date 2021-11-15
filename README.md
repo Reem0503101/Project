@@ -10,8 +10,10 @@ There are differences between childhood cancer and adult cancer, childhood cance
 In an adult, cancer is usually related to lifestyle or poor diet, but in children, the causes of cancer are still unknown. 
 Although, every year around 400,000 children between 0 – 19 old is diagnosed with a different type of cancer.
 The most common types of childhood cancers include leukemias, brain cancers, lymphomas and solid tumours, such as neuroblastoma and Wilms tumors.
+
 In high-income countries, where comprehensive services are generally accessible, more than 80% of children with cancer are cured but In low- and middle-income countries, an estimated 15-45% are cured, that because the lack or delayed of diagnosis. 
 In this project, I will build a model to determine which kind of cancer cause most death in children of age 0- 19 and is there any relation between gender and the number of deaths.
+
 I will use dataset from “ data.world “, the dataset contain 7 column and 327067 row.
 The dataset present the count of death, treat patients,
 Group of age , Gender, Races, type of cancer and Collection Starting Year.
